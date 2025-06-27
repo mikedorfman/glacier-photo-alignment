@@ -1,0 +1,11 @@
+name: glacier-photograph-manipulation
+
+dependencies:
+  - python=3.11
+  - pip
+  - ipykernel
+  - matplotlib
+  - ipywidgets
+  - pip:
+      - opencv-python
+      - pygments
